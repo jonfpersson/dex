@@ -1,5 +1,4 @@
 C:\Users\jonfp\source\repos\Dex\Dex\obj\Debug\Dex.csprojAssemblyReference.cache
-C:\Users\jonfp\source\repos\Dex\Dex\obj\Debug\Dex.Form1.resources
 C:\Users\jonfp\source\repos\Dex\Dex\obj\Debug\Dex.Properties.Resources.resources
 C:\Users\jonfp\source\repos\Dex\Dex\obj\Debug\Dex.csproj.GenerateResource.cache
 C:\Users\jonfp\source\repos\Dex\Dex\obj\Debug\Dex.csproj.CoreCompileInputs.cache
@@ -8,3 +7,4 @@ C:\Users\jonfp\source\repos\Dex\Dex\bin\Debug\Dex.exe
 C:\Users\jonfp\source\repos\Dex\Dex\bin\Debug\Dex.pdb
 C:\Users\jonfp\source\repos\Dex\Dex\obj\Debug\Dex.exe
 C:\Users\jonfp\source\repos\Dex\Dex\obj\Debug\Dex.pdb
+C:\Users\jonfp\source\repos\Dex\Dex\obj\Debug\Dex.Dex.resources

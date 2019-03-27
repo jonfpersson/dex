@@ -10,13 +10,13 @@ using System.Windows.Forms;
 
 namespace Dex
 {
-    public partial class Form1 : Form
+    public partial class Dex : Form
     {
         public String userInput;
         public char[] amountOfChar;
         public char[] newSentence;
 
-        public Form1()
+        public Dex()
         {
             InitializeComponent();
         }
@@ -40,6 +40,11 @@ namespace Dex
 
             label3.Text = new string(newSentence);
             Clipboard.SetText(new string(newSentence));
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
